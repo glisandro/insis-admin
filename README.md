@@ -1,3 +1,6 @@
+# Laravel plataforma
+[![StyleCI](https://styleci.io/repos/63803462/shield?branch=master)](https://styleci.io/repos/63803462)
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
