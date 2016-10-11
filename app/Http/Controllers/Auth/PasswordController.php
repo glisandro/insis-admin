@@ -2,8 +2,8 @@
 
 namespace insis\Http\Controllers\Auth;
 
-use insis\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
+use insis\Http\Controllers\Controller;
 
 class PasswordController extends Controller
 {
